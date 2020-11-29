@@ -4,15 +4,19 @@ title: About
 include_in_header: true
 ---
 
-<img src="assets/profile.png" style="display:block;margin: 0 auto;border-radius:50%">
+<img src="assets/profile.png" style="display:block;margin: 0 auto;border-radius:50%; width=160px; height=160px;">
 
 ## Jake Manning
-### Software Developer
+### iOS Developer
 
 <p style="text-align: center;">
-Hi there! I'm Jake. I recently graduated from University of Oklahoma with a Bachelor of Science in Computer Science.
+Hey there! I'm Jake. I graduated from University of Oklahoma with a Bachelor of Science in Computer Science.
 
-I taught myself iOS development in the summer of Freshman year. Four Player Reactor is the first large project I worked on.
+I taught myself iOS development in the summer of Freshman year.
+</p>
 
-Currently Four Player reactor is a side project, while I work full-time as a Software Engineer in Seattle, Washington.
+<p style="text-align: center;">
+Four Player Reactor is the first large project I worked on.
+
+Currently I work full-time as a Software Engineer in Seattle, Washington. I work on Four Player Reactor as a hobby project when I have the time.
 </p>
