@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Jake Manning
+title: About
 include_in_header: true
 ---
 
-<img src="../assets/profile.png" style="display:block;margin: 0 auto">
+<img src="../assets/profile.jpeg" style="display:block;margin: 0 auto;border-radius:50%">
 
 ## Jake Manning
 ### Software Developer
