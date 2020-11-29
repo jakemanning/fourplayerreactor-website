@@ -4,7 +4,7 @@ title: About
 include_in_header: true
 ---
 
-<img src="assets/profile.png" style="display:block;margin: 0 auto;border-radius:50%; width=160px; height=160px;">
+<img src="../assets/profile.png" style="display:block;margin: 0 auto;border-radius:50%; width=160px; height=160px;">
 
 ## Jake Manning
 ### iOS Developer
@@ -12,7 +12,7 @@ include_in_header: true
 <p style="text-align: center;">
 Hey there! I'm Jake. I graduated from University of Oklahoma with a Bachelor of Science in Computer Science.
 
-I taught myself iOS development in the summer of Freshman year.
+I taught myself iOS development the summer of my Freshman year.
 </p>
 
 <p style="text-align: center;">
