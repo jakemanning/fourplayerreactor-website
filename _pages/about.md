@@ -4,7 +4,7 @@ title: About
 include_in_header: true
 ---
 
-<img src="../assets/profile.png" style="display:block;margin: 0 auto;border-radius:50%; width=160px; height=160px;">
+<img src="../assets/profile.png" style="display:block;margin: 0 auto;border-radius:50%" width="160" height="160">
 
 ## Jake Manning
 ### iOS Developer
