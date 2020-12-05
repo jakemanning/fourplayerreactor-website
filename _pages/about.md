@@ -20,3 +20,5 @@ Four Player Reactor is the first large project I worked on.
 
 Currently I work full-time as a Software Engineer in Seattle, Washington. I work on Four Player Reactor as a hobby project when I have the time.
 </p>
+
+{% include footer.html %}
